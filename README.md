@@ -32,16 +32,3 @@ Tools, scripts, and indicators for identifying, mapping, and dismantling adversa
 - Collaborative ops with hosting providers or CERTs
 
 ---
-
-## 🧾 Signature Block
-
--= [ _Sab0x1D_ ] =-  
-Digital Forensic Nomad → Hex-bound | Ghost-backed
-
-```txt
-Track • Profile • Burn:
-{
-  Silent ops;
-  Malware trace;
-  Infra teardown;
-}
