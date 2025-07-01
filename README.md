@@ -1,20 +1,20 @@
-# 🔥 infra-burner
+# infra-burner
 
 **Infra Discovery & Burn Toolkit**  
 Tools, scripts, and indicators for identifying, mapping, and dismantling adversary infrastructure.
 
 ---
 
-## 🔧 Focus Areas
+## Focus Areas
 
-- 🛰️ DNS, SSL, and WHOIS fingerprinting
-- 🔎 C2 beacon pattern detection
-- 📓 Burn reports for takedown coordination
-- 📡 Threat actor network correlation
+- DNS, SSL, and WHOIS fingerprinting
+- C2 beacon pattern detection
+- Burn reports for takedown coordination
+- Threat actor network correlation
 
 ---
 
-## 📁 Structure
+## Structure
 
 | Folder          | Description                                             |
 |-----------------|---------------------------------------------------------|
@@ -24,7 +24,7 @@ Tools, scripts, and indicators for identifying, mapping, and dismantling adversa
 
 ---
 
-## 🔍 Use Cases
+## Use Cases
 
 - Blue/purple team infrastructure hunting
 - Threat intelligence infrastructure tracking
